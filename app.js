@@ -25,3 +25,5 @@ const router = VueRouter.createRouter({
   const app = Vue.createApp({})
   app.use(router)
   app.mount('#app')
+
+//   This route is the javascript code. instead we can use it in the vuejs app
